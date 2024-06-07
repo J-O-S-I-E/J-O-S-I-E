@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joseann Boneo</h1>
 <h3 align="center">A passionate and upcoming Software Engineer based in NYC but originally from the Caribbean.</h3>
 
-- 🌱 I’m currently learning **Kotlin and mobile app development in May and I look forward to the Girls Who Code: Summer 2024 Bank of America Mobile App Work Prep cohort**
+- 🌱 I’m currently learning **mobile app development in May and I look forward to the Girls Who Code: Summer 2024 Bank of America Mobile App Work Prep cohort**
 
 - 💬 Ask me about **Drag and Drop mobile app development**
 
