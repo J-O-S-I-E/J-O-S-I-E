@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **jboneo@nyit.edu**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1nDHLG2r1ZnxEOIo7gNBMfEoBBa6dZ5Kq/view))
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1nDHLG2r1ZnxEOIo7gNBMfEoBBa6dZ5Kq/view)
 
 - ⚡ Fun fact **I am a musician.**
 
