@@ -35,7 +35,7 @@ I'm a Computer Science student at NYIT minoring in Technology Entrepreneurship, 
 - **Lingo Quest** – A gamified language learning app designed to make cultural learning fun and inclusive. Tech: React, CSS, Firebase
 - **Schomoply** – A Monopoly-inspired educational board game app advocating equity in higher ed. Tech: Figma, Replit, UX Research
 - **LinkedIn Hackathon Prototype** – Built an immersive student resource platform using design thinking and low-code tools
-- **Break Through Tech AI Studio** – [Pin your AI project here with title and link if public]
+- **Break Through Tech AI Studio** – 
 
 ---
 
@@ -53,12 +53,6 @@ I'm a Computer Science student at NYIT minoring in Technology Entrepreneurship, 
 - [Resume](https://drive.google.com/file/d/1nDHLG2r1ZnxEOIo7gNBMfEoBBa6dZ5Kq/view)
 - [LeetCode](https://www.leetcode.com/j-o-s-i-e)
 - Discord: **@josie__b**
-
----
-
-📈 **GitHub Stats**
-![Joseann's GitHub stats](https://github-readme-stats.vercel.app/api?username=joseannboneo&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joseannboneo&layout=compact&theme=radical)
 
 ---
 
