@@ -1,23 +1,81 @@
 <h1 align="center">Hi 👋, I'm Joseann Boneo</h1>
-<h3 align="center">A passionate and upcoming Software Engineer based in NYC but originally from the Caribbean.</h3>
+<h3 align="center">Aspiring Software Engineer, Product Designer & Technologist | Passionate about Equity & Innovation</h3>
 
-- 🌱 I’m currently learning **mobile app development in May and I look forward to the Girls Who Code: Summer 2024 Bank of America Mobile App Work Prep cohort**
+---
 
-- 💬 Ask me about **Drag and Drop mobile app development**
+🎓 **About Me**
+I'm a Computer Science student at NYIT minoring in Technology Entrepreneurship, originally from the Caribbean and now based in NYC. I bring a unique blend of technical expertise and human-centered design, aiming to build inclusive products at the intersection of technology, community, and impact.
 
-- 📫 How to reach me **jboneo@nyit.edu**
+🔍 I'm passionate about:
+- **Software Engineering** – turning ideas into impactful products
+- **UI/UX Design** – creating accessible and user-focused experiences
+- **Product Management** – bridging design and development through empathy and strategy
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1nDHLG2r1ZnxEOIo7gNBMfEoBBa6dZ5Kq/view)
+💬 Let’s collaborate on making tech more equitable and meaningful!
 
-- ⚡ Fun fact **I am a musician.**
+---
 
-<h3 align="left">Connect with me:</h3>
+🧰 **Tech Stack**
 <p align="left">
-<a href="https://linkedin.com/in/joseann-boneo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joseann-boneo" height="30" width="40" /></a>
-<a href="https://instagram.com/@__xo_marika._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@__xo_marika._" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/j-o-s-i-e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="j-o-s-i-e" height="30" width="40" /></a>
-<a href="https://discord.gg/@josie__b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="@josie__b" height="30" width="40" /></a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
+
+🚀 **Key Projects**
+- **Lingo Quest** – A gamified language learning app designed to make cultural learning fun and inclusive. Tech: React, CSS, Firebase
+- **Schomoply** – A Monopoly-inspired educational board game app advocating equity in higher ed. Tech: Figma, Replit, UX Research
+- **LinkedIn Hackathon Prototype** – Built an immersive student resource platform using design thinking and low-code tools
+- **Break Through Tech AI Studio** – [Pin your AI project here with title and link if public]
+
+---
+
+🎓 **Extracurriculars & Interests**
+- Executive Member, NYIT First-Gen Student Club
+- Mentorship through Black Girls Code & MLT Career Prep
+- Avid jazz musician 🎷 and hackathon enthusiast
+- Interest in ethical AI, inclusive tech, and design for social good
+
+---
+
+📫 **Contact Me**
+- Email: **jboneo@nyit.edu**
+- [LinkedIn](https://linkedin.com/in/joseann-boneo)
+- [Resume](https://drive.google.com/file/d/1nDHLG2r1ZnxEOIo7gNBMfEoBBa6dZ5Kq/view)
+- [LeetCode](https://www.leetcode.com/j-o-s-i-e)
+- Discord: **@josie__b**
+
+---
+
+📈 **GitHub Stats**
+![Joseann's GitHub stats](https://github-readme-stats.vercel.app/api?username=joseannboneo&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joseannboneo&layout=compact&theme=radical)
+
+---
+
+🏆 **Awards & Certifications**
+- LinkedIn Possibilities in Tech Scholar 2024
+- MLT Career Prep Fellow
+- Break Through Tech AI Studio Alum
+
+---
+
+🌍 **Open Source Contributions**
+- Contributor to [Project Name](#) – (add any open-source contributions you’ve made here)
+
+✍️ **Blog (Coming Soon!)**
+Stay tuned for posts about product design, tech equity, and creative coding!
+
+---
+
+Let’s build technology that reflects *everyone*. 🚀
+
