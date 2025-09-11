@@ -59,9 +59,9 @@ I'm a Computer Science student at NYIT minoring in Technology Entrepreneurship, 
 ---
 
 🚀 **Key Projects**
-- **Lingo Quest** - 
-Designed an interactive, game-based language learning feature inspired by Duolingo. Integrated real-time quizzes and A/B testing to enhance user engagement.
-Tools: Figma, UX Research
+- **Campus Crave** - 
+Led frontend development and accessibility strategy for a student-focused food platform, managing a cross-functional team of 5 and optimizing data flow for real-time vendor updates and personalized dietary recommendations
+Tools: Figma, React
 - **Schomoply** -
 Prototyped an educational board game app advocating for equitable admissions in the Caribbean. Built using drag-and-drop mobile tools and an AirTable API to streamline student data collection.
 Tools: Thunkable, Figma, AirTable API
