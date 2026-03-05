@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joseann Boneo</h1>
-<h3 align="center">Aspiring Technologist, Product Manager & Product Designer | Passionate about Equity & Innovation</h3>
+<h3 align="center">Aspiring Technologist, Product Manager & Product Engineer | Passionate about Equity & Innovation</h3>
 
 ---
 
