@@ -69,7 +69,17 @@ View Slides
 - **LinkedIn Hackathon**-
 Collaborated on a prototype for gamified learning on LinkedIn Learning, introducing leaderboards and accountability features to improve learning motivation.
 Tools: Figma, UI/UX Design, Design Thinking
-- **Break Through Tech AI Studio** – 
+- **AI4ALL Ignite Program** - Developed machine learning pipeline for water quality risk assessment using Random Forest ensemble models in Python, achieving 98.3% classification accuracy on 2,900+ environmental samples and enabling real-time WQI score predictions for any US ZIP code
+Tools: Random Forest (Regressor + Classifier), scikit-learn, Python
+Data Sources: USGS National Water Information System, EPA Water Quality Portal, Kaggle datasets, GitHub
+<p align="left"> 
+  <img width="300" height="200" alt="AI for Water Quality" src="https://github.com/user-attachments/assets/742237db-fb65-4a1d-ac47-1afa8f1c6b85" />
+</p>
+- **Break Through Tech Fall AI Studio** – Owned end-to-end ML lifecycle for an NLP-based MBTI personality prediction model, aligning stakeholder roadmap with product and talent-matching objectives. Built and deployed TF-IDF NLP classifiers (Logistic Regression, SVM) achieving 82% accuracy, powering data-driven personality and career alignment insights within CariCon's talent matching system
+Tools: Google Collab, NumPy, Pandas, scikit-learn, GitHub
+- **Break Through Tech Spring AI Studio** - Built and deployed a full-stack agentic AI application that classifies waste items from photos or text descriptions, retrieves location-based disposal policies, autonomously schedules calendar appointments, and provides Google Maps directions to the nearest disposal facility
+Tools: Python, FastAPI, LangGraph, LangChain, Google Gemini AI, Expo (React Native), Supabase (PostgreSQL + Auth), Google OAuth 2.0, Google Maps API, Google Calendar API, Vercel, Render
+
 
 ---
 
