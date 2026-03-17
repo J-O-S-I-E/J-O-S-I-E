@@ -164,7 +164,8 @@
 
 | 🏅 Award / Program | 📌 Details |
 |---|---|
-| 🟣 **Break Through Tech AI Fellow** | Competitive 12-month AI fellowship; built & deployed end-to-end ML solutions |
+| 🥇 **Caribbean STEM Coding Olympiad Level 3 — Gold** | Represented Trinidad & Tobago; built a web platform helping CARICOM citizens navigate cross-border work mobility |
+| 🟣 **Break Through Tech AI Fellow** | Competitive 12-month AI fellowship; built & deployed end-to-end ML and agentic solutions |
 | 🟢 **MLT Career Prep Fellow** | Selected from 3,000+ applicants for elite 18-month tech professional development |
 | 🔵 **LinkedIn Possibilities in Tech Scholar** | Competitive 4-year scholarship with 1:1 mentorship from LinkedIn engineers |
 | 🟠 **America Needs You Fellow** | First-gen professional development & career acceleration program |
