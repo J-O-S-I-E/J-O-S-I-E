@@ -119,7 +119,7 @@
       <h3>🎲 Schomoply</h3>
       <p>Designed a centralized mobile admissions platform for 200+ secondary schools in Trinidad & Tobago, integrating an API to modernize an inefficient in-person registration system.</p>
       <p>
-        <img src="https://img.shields.io/badge/Thunkable-orange?style=flat"/>
+        <img src="https://img.shields.io/badge/Thunkable-FF6B35?style=flat"/>
         <img src="https://img.shields.io/badge/AirTable-18BFFF?style=flat&logo=airtable&logoColor=white"/>
         <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
       </p>
@@ -130,6 +130,29 @@
       <p>
         <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
         <img src="https://img.shields.io/badge/Design%20Thinking-purple?style=flat"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚀 Build2Rise – Founder & Investor Platform</h3>
+      <p>Led cross-functional team of 5 to build AI-driven networking platform connecting founders and investors. Implemented <strong>Smart Match AI</strong> using Gemini API, achieving 80%+ accuracy. Conducted comprehensive usability testing and use case analysis for seamless user experience and design.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Gemini%20AI-4285F4?style=flat&logo=google&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌊 AI-Driven Water Quality Analysis</h3>
+      <p>Built Random Forest ensemble model achieving <strong>98.3% classification accuracy</strong> on 2,900+ samples. Transformed fragmented USGS data into actionable WQI scores and safety labels, providing real-time predictions for environmental justice communities.</p>
+      <p>
+        <a href="https://github.com/seanesla/group11C"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Machine%20Learning-FF6B6B?style=flat"/>
+        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
       </p>
     </td>
   </tr>
