@@ -170,7 +170,8 @@
 | 🟢 **MLT Career Prep Fellow** | Selected from 3,000+ applicants for elite 18-month tech professional development |
 | 🔵 **LinkedIn Possibilities in Tech Scholar** | Competitive 4-year scholarship with 1:1 mentorship from LinkedIn engineers |
 | 🟠 **America Needs You Fellow** | First-gen professional development & career acceleration program |
-| 🎷 **NYIT Outstanding Club of 2024** | Recognized as VP of NYIT Music Cubs for organizing concerts & campus events |
+| 🎷 **NYIT Outstanding Club of 2025** | Recognized as VP of NYIT Music Cubs for organizing concerts & campus events |
+| 🎷 **NYIT Outstanding Student Leader of 2026** | Presented to a student leader who has demonstrated the most dedication and commitment to New York Tech over the course of the academic year |
 
 ---
 
