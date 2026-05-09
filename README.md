@@ -26,7 +26,7 @@
 
 > *CS student at NYIT · Caribbean roots · NYC based · Building inclusive tech at the intersection of design, engineering, and community.*
 
-- 🎓 **BS Computer Science** – AI Concentration | Technology Entrepreneurship Minor @ **NYIT** *(GPA: 3.69, Graduating Dec 2026)*
+- 🎓 **BS Computer Science** – AI Concentration | Technology Entrepreneurship Minor @ **NYIT** *(GPA: 3.69, Graduating May 2027)*
 - 📜 **Machine Learning Foundations** e-Certificate – Cornell University *(Aug 2025)*
 - 💡 Passionate about **UI/UX**, **Product Management**, and **Software Engineering**
 - 🤖 Interested in **Ethical AI**, **Inclusive Tech**, and **Design for Social Good**
