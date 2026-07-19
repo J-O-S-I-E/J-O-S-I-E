@@ -194,7 +194,7 @@
 
 - 🎓 **Executive Member** – NYIT First-Gen Student Club
 - 👩🏾‍💻 **Mentee** – Black Girls Code & MLT Career Prep
-- 🎷 **Vice President** – NYIT Music Cubs *(Big Band, jazz concerts, open mics)*
+- 🎷 **Vice President** – NYIT Music Cubs *(Big Band, jazz concerts, open mics)*, NYIT First Generation Students Club
 - 🌍 **Affiliations** – Girls Who Code · ColorStack · Rewriting the Code · CodePath · SEO Career
 - 💭 **Interests** – Ethical AI · Inclusive Tech · Design for Social Good
 
