@@ -87,49 +87,34 @@
       </p>
     </td>
     <td width="50%" valign="top">
+      <h3>🏨 Hilton Virtual Concierge — Product Vision Pitch</h3>
+      <p>Defined end-to-end product vision and business case for an AI-powered virtual concierge feature natively integrated into the Hilton Honors app, targeting <strong>210M+ members</strong> across 8,000+ properties. Conducted competitive analysis to identify a <strong>$1.2B TAM opportunity</strong> and modeled <strong>$440M annual revenue</strong>.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Product%20Management-534AB7?style=flat"/>
+        <img src="https://img.shields.io/badge/Business%20Strategy-0A66C2?style=flat"/>
+        <img src="https://img.shields.io/badge/Competitive%20Analysis-FF6B6B?style=flat"/>
+        <img src="https://img.shields.io/badge/AI%20Product-00B4D8?style=flat"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌊 AI-Driven Water Quality Analysis</h3>
+      <p>Built Random Forest ensemble model achieving <strong>98.3% classification accuracy</strong> on 2,900+ samples. Transformed fragmented USGS data into actionable WQI scores and safety labels, providing real-time predictions for environmental justice communities.</p>
+      <p>
+        <a href="https://github.com/seanesla/group11C"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Machine%20Learning-FF6B6B?style=flat"/>
+        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
       <h3>♻️ Agentic Waste Classifier App</h3>
       <p>Full-stack agentic AI app that classifies waste from photos or text, retrieves local disposal policies, schedules calendar appointments, and provides Maps directions to disposal facilities.</p>
       <p>
         <img src="https://img.shields.io/badge/LangGraph-00A86B?style=flat"/>
         <img src="https://img.shields.io/badge/Gemini%20AI-4285F4?style=flat&logo=google&logoColor=white"/>
         <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎮 Lingo Quest – Duolingo Case Study</h3>
-      <p>Proposed and designed an interactive game-based feature with customizable real-time quizzes. Conducted A/B testing scenarios and built Figma mockups aligned with Duolingo's design philosophy to optimize engagement and accessibility.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
-        <img src="https://img.shields.io/badge/UX%20Research-purple?style=flat"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🍔 Campus Crave</h3>
-      <p>Led frontend development and accessibility strategy for a student-focused food platform. Managed a cross-functional team of 5, optimizing data flow for real-time vendor updates and personalized dietary recommendations.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎲 Schomoply</h3>
-      <p>Designed a centralized mobile admissions platform for 200+ secondary schools in Trinidad & Tobago, integrating an API to modernize an inefficient in-person registration system.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Thunkable-FF6B35?style=flat"/>
-        <img src="https://img.shields.io/badge/AirTable-18BFFF?style=flat&logo=airtable&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🏆 LinkedIn Hackathon</h3>
-      <p>Prototyped gamification features — leaderboards and accountability partners — in Figma to improve engagement and user retention within LinkedIn Learning's platform at a LinkedIn-hosted hackathon.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Design%20Thinking-purple?style=flat"/>
       </p>
     </td>
   </tr>
@@ -146,27 +131,45 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🌊 AI-Driven Water Quality Analysis</h3>
-      <p>Built Random Forest ensemble model achieving <strong>98.3% classification accuracy</strong> on 2,900+ samples. Transformed fragmented USGS data into actionable WQI scores and safety labels, providing real-time predictions for environmental justice communities.</p>
+      <h3>🎮 Lingo Quest – Duolingo Case Study</h3>
+      <p>Proposed and designed an interactive game-based feature with customizable real-time quizzes. Conducted A/B testing scenarios and built Figma mockups aligned with Duolingo's design philosophy to optimize engagement and accessibility.</p>
       <p>
-        <a href="https://github.com/seanesla/group11C"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Machine%20Learning-FF6B6B?style=flat"/>
-        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
+        <img src="https://img.shields.io/badge/UX%20Research-purple?style=flat"/>
+        <img src="https://img.shields.io/badge/A%2FB%20Testing-00B4D8?style=flat"/>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-    <h3>🏨 Hilton Virtual Concierge — Product Vision Pitch</h3>
-    <p>Defined end-to-end product vision and business case for an AI-powered virtual concierge feature natively integrated into the Hilton Honors app, targeting <strong>210M+ members</strong> across 8,000+ properties. Conducted competitive analysis to identify a <strong>$1.2B TAM opportunity</strong> and modeled <strong>$440M annual revenue</strong>.</p>
-    <p>
-      <img src="https://img.shields.io/badge/Product%20Management-534AB7?style=flat"/>
-      <img src="https://img.shields.io/badge/Business%20Strategy-0A66C2?style=flat"/>
-      <img src="https://img.shields.io/badge/Competitive%20Analysis-FF6B6B?style=flat"/>
-      <img src="https://img.shields.io/badge/AI%20Product-00B4D8?style=flat"/>
-    </p>
-  </td>
+      <h3>🍔 Campus Crave</h3>
+      <p>Led frontend development and accessibility strategy for a student-focused food platform. Managed a cross-functional team of 5, optimizing data flow for real-time vendor updates and personalized dietary recommendations.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎲 Schomoply</h3>
+      <p>Designed a centralized mobile admissions platform for 200+ secondary schools in Trinidad & Tobago, integrating an API to modernize an inefficient in-person registration system.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Thunkable-FF6B35?style=flat"/>
+        <img src="https://img.shields.io/badge/AirTable-18BFFF?style=flat&logo=airtable&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏆 LinkedIn Hackathon</h3>
+      <p>Prototyped gamification features — leaderboards and accountability partners — in Figma to improve engagement and user retention within LinkedIn Learning's platform at a LinkedIn-hosted hackathon.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Design%20Thinking-purple?style=flat"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+    </td>
   </tr>
 </table>
 
