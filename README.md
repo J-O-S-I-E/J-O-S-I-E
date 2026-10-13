@@ -162,7 +162,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3>🏆 LinkedIn Hackathon</h3>
-      <p>Prototyped gamification features — leaderboards and accountability partners — in Figma to improve engagement and user retention within LinkedIn Learning's platform at a LinkedIn-hosted hackathon.</p>
+      <p>Prototyped gamification features - leaderboards and accountability partners — in Figma to improve engagement and user retention within LinkedIn Learning's platform at a LinkedIn-hosted hackathon.</p>
       <p>
         <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
         <img src="https://img.shields.io/badge/Design%20Thinking-purple?style=flat"/>
@@ -179,8 +179,8 @@
 
 | 🏅 Award / Program | 📌 Details |
 |---|---|
-| 🥇 **Caribbean STEM Coding Olympiad — Gold 2026** | Represented Trinidad & Tobago; built a web platform helping CARICOM citizens navigate cross-border work mobility |
-| 🏆 **CARIRI x Republic Bank — 1st Place 2022** | Won Power Up Competition; designed a mobile app modernizing the Form 6 admissions registration system across T&T secondary schools |
+| 🥇 **Caribbean STEM Coding Olympiad - Gold 2026** | Represented Trinidad & Tobago; built a web platform helping CARICOM citizens navigate cross-border work mobility |
+| 🏆 **CARIRI x Republic Bank - 1st Place 2022** | Won Power Up Competition; designed a mobile app modernizing the Form 6 admissions registration system across T&T secondary schools |
 | 🟣 **Break Through Tech AI Fellow** | Competitive 12-month AI fellowship; built & deployed end-to-end ML and agentic solutions |
 | 🟢 **MLT Career Prep Fellow** | Selected from 3,000+ applicants for elite 18-month tech professional development |
 | 🔵 **LinkedIn Possibilities in Tech Scholar** | Competitive 4-year scholarship with 1:1 mentorship from LinkedIn engineers |
