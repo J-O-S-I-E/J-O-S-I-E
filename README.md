@@ -162,7 +162,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3>🏆 LinkedIn Hackathon</h3>
-      <p>Prototyped gamification features - leaderboards and accountability partners — in Figma to improve engagement and user retention within LinkedIn Learning's platform at a LinkedIn-hosted hackathon.</p>
+      <p>Prototyped gamification features - leaderboards and accountability partners, in Figma to improve engagement and user retention within LinkedIn Learning's platform at a LinkedIn-hosted hackathon.</p>
       <p>
         <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
         <img src="https://img.shields.io/badge/Design%20Thinking-purple?style=flat"/>
