@@ -87,7 +87,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🏨 Hilton Virtual Concierge — Product Vision Pitch</h3>
+      <h3>🏨 Hilton Virtual Concierge - Product Vision Pitch</h3>
       <p>Defined end-to-end product vision and business case for an AI-powered virtual concierge feature natively integrated into the Hilton Honors app, targeting <strong>210M+ members</strong> across 8,000+ properties. Conducted competitive analysis to identify a <strong>$1.2B TAM opportunity</strong> and modeled <strong>$440M annual revenue</strong>.</p>
       <p>
         <img src="https://img.shields.io/badge/Product%20Management-534AB7?style=flat"/>
